@@ -1,0 +1,10 @@
+diff a/新建文本文档.txt b/新建文本文档.txt	(rejected hunks)
+@@ -16,6 +16,6 @@
+ 
+ http://10.142.90.42:9004/query/index.html#/main  ������Ӫ
+ 
+-[...new Set([1,2,3,4,5,5,4,3,2,1])]����ȥ��
++[...new Set([1,2,3,4,5,5,4,3,2,1])]
+ 
+ test----------------
+\ No newline at end of file

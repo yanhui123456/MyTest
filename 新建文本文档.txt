@@ -16,6 +16,6 @@ http://10.142.233.119:9100/webapps/omc-billing-query/query/index.html 正式运营
 
 http://10.142.90.42:9004/query/index.html#/main  测试运营
 
-[...new Set([1,2,3,4,5,5,4,3,2,1])]数组去重
+[...new Set([1,2,3,4,5,5,4,3,2,1])]
 
 test----------------
